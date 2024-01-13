@@ -1,0 +1,12 @@
+[package]
+name = "cwc"
+version = "0.1.0"
+authors = ["0xlay, <0xlay.lab@gmail.com>"]
+edition = "2021"
+description = "The cwc is a cross-platform implementation of the wc (word count) Unix-like utility, designed to work on Windows, macOS, and Linux systems."
+readme = "README.md"
+homepage = "https://github.com/0xlay"
+license-file = "LICENSE"
+
+[dependencies]
+utf8-chars = "3.0.1"
